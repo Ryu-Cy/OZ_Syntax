@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\bin\Debug\net8.0\ConsoleApp_HW_TRPG.exe
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\bin\Debug\net8.0\ConsoleApp_HW_TRPG.deps.json
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\bin\Debug\net8.0\ConsoleApp_HW_TRPG.runtimeconfig.json
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\bin\Debug\net8.0\ConsoleApp_HW_TRPG.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\bin\Debug\net8.0\ConsoleApp_HW_TRPG.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\refint\ConsoleApp_HW_TRPG.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ConsoleApp_HW_TRPG.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_HW_TRPG\ConsoleApp_HW_TRPG\obj\Debug\net8.0\ref\ConsoleApp_HW_TRPG.dll

@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\elementeffiectiveness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\elementeffiectiveness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_hw_trpg\\consoleapp_hw_trpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE1463DB-F089-4F91-B558-BF82AE0849E8}|ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG.csproj|solutionrelative:consoleapp_hw_trpg\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Inventory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Inventory.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Inventory.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Inventory.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAD4v04AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:33:15.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\BattleManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\BattleManager.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\BattleManager.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\BattleManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:50:17.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Player.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Player.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Player.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAowC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:52:40.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Map.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Map.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Map.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Map.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAIAywJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T09:11:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Enums.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Enums.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Enums.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:47:12.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Item.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Item.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Item.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:31:54.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shop.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Shop.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Shop.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Shop.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Shop.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T09:25:34.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Monster.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Monster.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Monster.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Monster.cs",
+              "ViewState": "AgIAAGIBAAAAAAAAAIAywGoBAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:52:55.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ElementEffiectiveness.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\ElementEffiectiveness.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\ElementEffiectiveness.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\ElementEffiectiveness.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\ElementEffiectiveness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T08:23:18.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\GameManager.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\GameManager.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\GameManager.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T06:50:25.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_HW_TRPG\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_HW_TRPG\\ConsoleApp_HW_TRPG\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_HW_TRPG\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T05:46:59.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
