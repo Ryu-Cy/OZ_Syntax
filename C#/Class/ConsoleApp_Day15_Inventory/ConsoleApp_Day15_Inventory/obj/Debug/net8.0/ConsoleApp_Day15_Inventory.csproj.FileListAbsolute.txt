@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\bin\Debug\net8.0\ConsoleApp_Day15_Inventory.exe
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\bin\Debug\net8.0\ConsoleApp_Day15_Inventory.deps.json
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\bin\Debug\net8.0\ConsoleApp_Day15_Inventory.runtimeconfig.json
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\bin\Debug\net8.0\ConsoleApp_Day15_Inventory.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\bin\Debug\net8.0\ConsoleApp_Day15_Inventory.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\refint\ConsoleApp_Day15_Inventory.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ConsoleApp_Day15_Inventory.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day15_Inventory\ConsoleApp_Day15_Inventory\obj\Debug\net8.0\ref\ConsoleApp_Day15_Inventory.dll

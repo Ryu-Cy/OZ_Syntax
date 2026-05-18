@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day15_inventory\\consoleapp_day15_inventory\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|solutionrelative:consoleapp_day15_inventory\\maingame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day15_inventory\\consoleapp_day15_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|solutionrelative:consoleapp_day15_inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day15_inventory\\consoleapp_day15_inventory\\itemsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|solutionrelative:consoleapp_day15_inventory\\itemsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day15_inventory\\consoleapp_day15_inventory\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|solutionrelative:consoleapp_day15_inventory\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day15_inventory\\consoleapp_day15_inventory\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29F46200-608C-43EF-BFEB-F0A5269F5411}|ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory.csproj|solutionrelative:consoleapp_day15_inventory\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day15_Inventory\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_Day15_Inventory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:03:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainGame.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\MainGame.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day15_Inventory\\MainGame.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\MainGame.cs",
+              "RelativeToolTip": "ConsoleApp_Day15_Inventory\\MainGame.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAYwHwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:49:24.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\Player.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day15_Inventory\\Player.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\Player.cs",
+              "RelativeToolTip": "ConsoleApp_Day15_Inventory\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:30:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemSystem.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\ItemSystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day15_Inventory\\ItemSystem.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\ItemSystem.cs",
+              "RelativeToolTip": "ConsoleApp_Day15_Inventory\\ItemSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:09:04.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\Enums.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day15_Inventory\\Enums.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day15_Inventory\\ConsoleApp_Day15_Inventory\\Enums.cs",
+              "RelativeToolTip": "ConsoleApp_Day15_Inventory\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T02:05:52.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\bin\Debug\net8.0\ConsoleApp_Day19.exe
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\bin\Debug\net8.0\ConsoleApp_Day19.deps.json
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\bin\Debug\net8.0\ConsoleApp_Day19.runtimeconfig.json
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\bin\Debug\net8.0\ConsoleApp_Day19.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\bin\Debug\net8.0\ConsoleApp_Day19.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\refint\ConsoleApp_Day19.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ConsoleApp_Day19.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day19\ConsoleApp_Day19\obj\Debug\net8.0\ref\ConsoleApp_Day19.dll

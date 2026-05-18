@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\bin\Debug\net8.0\ConsoleApp_Day17_HW.exe
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\bin\Debug\net8.0\ConsoleApp_Day17_HW.deps.json
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\bin\Debug\net8.0\ConsoleApp_Day17_HW.runtimeconfig.json
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\bin\Debug\net8.0\ConsoleApp_Day17_HW.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\bin\Debug\net8.0\ConsoleApp_Day17_HW.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.AssemblyInfo.cs
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\refint\ConsoleApp_Day17_HW.dll
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.pdb
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ConsoleApp_Day17_HW.genruntimeconfig.cache
+C:\Users\admin\source\repos\C#\ConsoleApp_Day17_HW\ConsoleApp_Day17_HW\obj\Debug\net8.0\ref\ConsoleApp_Day17_HW.dll

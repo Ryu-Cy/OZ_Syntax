@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BC21C-586F-4620-84ED-773365383E99}|ConsoleApp_Day10\\ConsoleApp_Day10.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day10\\consoleapp_day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BC21C-586F-4620-84ED-773365383E99}|ConsoleApp_Day10\\ConsoleApp_Day10.csproj|solutionrelative:consoleapp_day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BC21C-586F-4620-84ED-773365383E99}|ConsoleApp_Day10\\ConsoleApp_Day10.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day10\\consoleapp_day10\\program01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BC21C-586F-4620-84ED-773365383E99}|ConsoleApp_Day10\\ConsoleApp_Day10.csproj|solutionrelative:consoleapp_day10\\program01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1BC21C-586F-4620-84ED-773365383E99}|ConsoleApp_Day10\\ConsoleApp_Day10.csproj|c:\\users\\admin\\source\\repos\\c#\\consoleapp_day10\\consoleapp_day10\\program02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1BC21C-586F-4620-84ED-773365383E99}|ConsoleApp_Day10\\ConsoleApp_Day10.csproj|solutionrelative:consoleapp_day10\\program02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program02.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\ConsoleApp_Day10\\Program02.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day10\\Program02.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\ConsoleApp_Day10\\Program02.cs",
+              "RelativeToolTip": "ConsoleApp_Day10\\Program02.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T04:17:28.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program01.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\ConsoleApp_Day10\\Program01.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day10\\Program01.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\ConsoleApp_Day10\\Program01.cs",
+              "RelativeToolTip": "ConsoleApp_Day10\\Program01.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T02:34:23.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\ConsoleApp_Day10\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp_Day10\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C#\\ConsoleApp_Day10\\ConsoleApp_Day10\\Program.cs",
+              "RelativeToolTip": "ConsoleApp_Day10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T01:21:44.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
