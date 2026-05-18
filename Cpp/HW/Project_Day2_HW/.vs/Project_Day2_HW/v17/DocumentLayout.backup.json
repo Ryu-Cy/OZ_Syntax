@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day2_HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2DC5F5-D330-4975-AD54-0A836739DFB6}|Project_Day2_HW\\Project_Day2_HW.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day2_HW\\Project_Day2_HW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EF2DC5F5-D330-4975-AD54-0A836739DFB6}|Project_Day2_HW\\Project_Day2_HW.vcxproj|solutionrelative:Project_Day2_HW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day2_HW\\Project_Day2_HW\\main.cpp",
+              "RelativeDocumentMoniker": "Project_Day2_HW\\main.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day2_HW\\Project_Day2_HW\\main.cpp",
+              "RelativeToolTip": "Project_Day2_HW\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-17T06:19:27.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

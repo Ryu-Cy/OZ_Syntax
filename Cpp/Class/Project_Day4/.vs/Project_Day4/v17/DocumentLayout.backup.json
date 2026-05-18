@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E60EA4D-DE14-4107-900D-75EE887903EF}|Project_Day4\\Project_Day4.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\Project_Day4\\while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E60EA4D-DE14-4107-900D-75EE887903EF}|Project_Day4\\Project_Day4.vcxproj|solutionrelative:Project_Day4\\while.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E60EA4D-DE14-4107-900D-75EE887903EF}|Project_Day4\\Project_Day4.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\Project_Day4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4E60EA4D-DE14-4107-900D-75EE887903EF}|Project_Day4\\Project_Day4.vcxproj|solutionrelative:Project_Day4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "while.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\Project_Day4\\while.cpp",
+              "RelativeDocumentMoniker": "Project_Day4\\while.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\Project_Day4\\while.cpp*",
+              "RelativeToolTip": "Project_Day4\\while.cpp*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T02:20:54.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\Project_Day4\\main.cpp",
+              "RelativeDocumentMoniker": "Project_Day4\\main.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day4\\Project_Day4\\main.cpp",
+              "RelativeToolTip": "Project_Day4\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T01:05:14.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day5_HW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD96562-BFC5-4351-A2C9-C68D0DA0C7F8}|Project_Day5_HW\\Project_Day5_HW.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day5_HW\\Project_Day5_HW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EBD96562-BFC5-4351-A2C9-C68D0DA0C7F8}|Project_Day5_HW\\Project_Day5_HW.vcxproj|solutionrelative:Project_Day5_HW\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day5_HW\\Project_Day5_HW\\main.cpp",
+              "RelativeDocumentMoniker": "Project_Day5_HW\\main.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day5_HW\\Project_Day5_HW\\main.cpp",
+              "RelativeToolTip": "Project_Day5_HW\\main.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T05:36:40.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

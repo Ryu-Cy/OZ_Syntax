@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3706421E-7E6E-48A9-A3C8-D25FEB4F5208}|Project_Day3\\Project_Day3.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3706421E-7E6E-48A9-A3C8-D25FEB4F5208}|Project_Day3\\Project_Day3.vcxproj|solutionrelative:Project_Day3\\switch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3706421E-7E6E-48A9-A3C8-D25FEB4F5208}|Project_Day3\\Project_Day3.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3706421E-7E6E-48A9-A3C8-D25FEB4F5208}|Project_Day3\\Project_Day3.vcxproj|solutionrelative:Project_Day3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3706421E-7E6E-48A9-A3C8-D25FEB4F5208}|Project_Day3\\Project_Day3.vcxproj|C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3706421E-7E6E-48A9-A3C8-D25FEB4F5208}|Project_Day3\\Project_Day3.vcxproj|solutionrelative:Project_Day3\\statement.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "switch.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\switch.cpp",
+              "RelativeDocumentMoniker": "Project_Day3\\switch.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\switch.cpp",
+              "RelativeToolTip": "Project_Day3\\switch.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T04:53:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "statement.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\statement.cpp",
+              "RelativeDocumentMoniker": "Project_Day3\\statement.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\statement.cpp",
+              "RelativeToolTip": "Project_Day3\\statement.cpp",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAAAJUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T02:36:38.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\main.cpp",
+              "RelativeDocumentMoniker": "Project_Day3\\main.cpp",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\C\u002B\u002B\\Project_Day3\\Project_Day3\\main.cpp",
+              "RelativeToolTip": "Project_Day3\\main.cpp",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-20T01:12:32.596Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
